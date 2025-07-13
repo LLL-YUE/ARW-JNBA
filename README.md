@@ -35,7 +35,7 @@ The model can be evaluated on several public datasets. Please download them from
 
 ## Getting Started
 
-Our method is unsupervised and does not require training. You can directly evaluate our model on the image.
+Our method is unsupervised and does not require training. You can directly test our model on the image.
 
 
 **1. Run main Script**
