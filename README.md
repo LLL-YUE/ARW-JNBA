@@ -31,3 +31,16 @@ The model can be evaluated on several public datasets. Please download them from
 * **SUIM:** https://irvlab.cs.umn.edu/resources/suim-dataset
 * **USOD10K:** https://github.com/LinHong-HIT/USOD10K
 * **UFO-120:** https://irvlab.cs.umn.edu/resources/ufo-120-dataset
+
+
+## Getting Started
+
+Our method is unsupervised and does not require training. You can directly evaluate our model on the image.
+
+
+**1. Run main Script**
+
+To test the model on an image, run the `main.py` script.
+
+```bash
+python main.py --image_path examples/1.jpg
